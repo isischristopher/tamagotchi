@@ -1,0 +1,26 @@
+@import "~bootstrap/scss/bootstrap";
+
+body{
+    background-color: rosybrown;
+}
+.quad {
+    width: 50vw; 
+    height: 50vh;
+}
+#eat {
+    background-color: goldenrod;
+    float: right;
+}
+
+#play {
+    background-color: gray;
+    float: left;
+}
+#sleep {
+    background-color: white;
+    float: right;
+}
+#fight {
+    background-color: pink;
+    float: left;
+}
